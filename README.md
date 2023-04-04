@@ -4,7 +4,7 @@ Hi 👋 My name is Ricky Landry
 Full Stack Web Developer | Blockchain Developer | React Developer
 -----------------------------------------------------------------
 
-I am a Blockchain/Web Developer and college graduate with 5+ years of experience in designing and developing front end user interfaces, back end servers and databases, and blockchain technologies.
+I am a Blockchain/Web Developer and college graduate with 5+ years of experience in designing and developing front end user interfaces, back end servers and databases, and blockchain technologies
 
 * 🌍  I'm based in New Hampshire, USA
 * ✉️  You can contact me at [rlandrydev@gmail.com](mailto:rlandrydev@gmail.com)
