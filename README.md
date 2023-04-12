@@ -9,7 +9,7 @@ I am a Blockchain/Web Developer and college graduate with 5+ years of experience
 * 🌍  I'm based in New Hampshire, USA
 * ✉️  You can contact me at [rlandrydev@gmail.com](mailto:rlandrydev@gmail.com)
 * 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on projects!
+* 🤝  I'm open to collaborating on projects
 
 ### Skills
 
