@@ -1,12 +1,12 @@
 Hi 👋 My name is Ricky Landry
 =============================
 
-Full Stack Web Developer | React Developer | JavaScript | PHP | Python | Solidity | C++
+Full Stack Developer | JavaScript | PHP | Python | React | Angular | React Native | Node.js | Express.js | SQL | jQuery
 -----------------------------------------------------------------
 
-I am a Full Stack Web Developer with 7+ years of experience in designing and developing responsive front end user interfaces and back end servers and databases. I have experience with Javascript, PHP, Python, Solidity, and C++ and frameworks like React, Node.js, and Next.js.
+I am a Full Stack Web Developer with 7+ years of experience in designing and developing responsive front end user interfaces and back end servers and databases. I have experience with Javascript, PHP, Python, Solidity, and C++ and frameworks like React, Angular, Node.js, and Next.js.
 
-* 🌍  I'm based in New Hampshire, USA
+* 🌍  I'm based in Connecticut, USA
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
