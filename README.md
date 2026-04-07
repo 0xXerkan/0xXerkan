@@ -1,4 +1,4 @@
-Hi 👋 My name is Ricky Landry
+Hi 👋 My name is Ricky
 =============================
 
 Full Stack Developer | JavaScript | PHP | Python | React | Angular | React Native | Node.js | Express.js | SQL | jQuery
